@@ -29,6 +29,8 @@ Kullanılacak Araçlar;
 
 Jupyter Notebook: Araştırma raporlarının yazımı, veri analizi ve görselleştirme.
 
+Google Scholar: Literatür tarama
+
 GitHub: Versiyon kontrolü ve grup içi proje takibi.
 
 # Proje İlerleme Tablosu
