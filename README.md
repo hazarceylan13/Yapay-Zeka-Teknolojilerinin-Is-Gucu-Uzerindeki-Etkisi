@@ -30,3 +30,12 @@ Kullanılacak Araçlar;
 Jupyter Notebook: Araştırma raporlarının yazımı, veri analizi ve görselleştirme.
 
 GitHub: Versiyon kontrolü ve grup içi proje takibi.
+
+# Proje İlerleme Tablosu
+
+# Proje İlerleme Tablosu
+
+| Tarih      | Mini Proje | Yapılan Çalışma                                                                
+|------------|------------|-----------------|
+| 22.10.2025 | MP1        | Araştırma konusu seçimi, Konu tanımı, Araştırma problemi, Değişkenler ve Hipotez belirleme
+
