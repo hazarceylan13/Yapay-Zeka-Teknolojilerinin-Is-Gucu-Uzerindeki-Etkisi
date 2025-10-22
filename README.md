@@ -1,4 +1,4 @@
-# Yapay-Zeka-Teknolojilerinin-G-c-zerindeki-Etkisi
+# Yapay-Zeka-Teknolojilerinin-İş-Gücü-Üzerindeki-Etkisi
 Yapay zeka teknolojilerinin iş gücü üzerindeki etkisini inceleyen araştırma projesi (Araştırma Yöntem ve Teknikleri dersi).
 
 Ders Adı: Araştırma Yöntem ve Teknikleri
