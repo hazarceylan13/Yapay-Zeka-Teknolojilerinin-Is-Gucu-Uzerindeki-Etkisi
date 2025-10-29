@@ -38,4 +38,5 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 | Tarih      | Mini Proje | Yapılan Çalışma                                                                
 |------------|------------|-----------------|
 | 22.10.2025 | MP1        | Araştırma konusu seçimi, Konu tanımı, Araştırma problemi, Değişkenler ve Hipotez belirleme
+| 22.10.2025 | MP2        | Literatür taraması yapıldı, araştırma boşluğu ve hipotez belirlendi.
 
