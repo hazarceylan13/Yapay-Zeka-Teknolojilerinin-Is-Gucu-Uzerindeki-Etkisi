@@ -40,3 +40,7 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 | 22.10.2025 | MP1        | Araştırma konusu seçimi, Konu tanımı, Araştırma problemi, Değişkenler ve Hipotez belirleme
 | 22.10.2025 | MP2        | Literatür taraması yapıldı, araştırma boşluğu ve hipotez belirlendi.
 
+### MP3 - Veri Toplama Tasarımı
+- Yöntem: Doküman / İçerik Analizi
+- Veri kaynağı: World Economic Forum (WEF), Goldman Sachs, McKinsey, PwC ve TİSK 2024-2025 raporları.
+- Kayıt sayısı: 22 satır
