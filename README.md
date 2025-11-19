@@ -39,8 +39,12 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 |------------|------------|-----------------|
 | 22.10.2025 | MP1        | Araştırma konusu seçimi, Konu tanımı, Araştırma problemi, Değişkenler ve Hipotez belirleme
 | 22.10.2025 | MP2        | Literatür taraması yapıldı, araştırma boşluğu ve hipotez belirlendi.
+| 05.11.2025 | MP3        | Veri toplama tasarımı, döküman/içerik analizi yöntemi ile yapıldı. 22 satırlık veri seti oluşturuldu.
+| 19.11.2025 | MP3        | Veri toplama tasarımı için önceki veri seti 10 meslek daha eklenerek güncellendi. Ayrıca nicel veri seti eklendi.
 
 ### MP3 - Veri Toplama Tasarımı
-- Yöntem: Doküman / İçerik Analizi
-- Veri kaynağı: World Economic Forum (WEF), Goldman Sachs, McKinsey, PwC ve TİSK 2024-2025 raporları.
-- Kayıt sayısı: 22 satır
+- **Yöntem:** Doküman / İçerik Analizi
+- **Veri Kaynağı:** World Economic Forum (WEF), Goldman Sachs, McKinsey, PwC, TİSK Raporları; OpenAI, Stanford HAI verileri.
+- **Kayıt Sayısı:**
+  - `data_mp3.csv` (Nitel Veri): 32 satır
+  - `data_mp3_2.csv` (Nicel Veri): 40 satır
