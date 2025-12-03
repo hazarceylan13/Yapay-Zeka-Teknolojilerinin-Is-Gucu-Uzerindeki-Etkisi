@@ -41,6 +41,7 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 | 22.10.2025 | MP2        | Literatür taraması yapıldı, araştırma boşluğu ve hipotez belirlendi.
 | 05.11.2025 | MP3        | Veri toplama tasarımı, döküman/içerik analizi yöntemi ile yapıldı. 22 satırlık veri seti oluşturuldu.
 | 19.11.2025 | MP3        | Veri toplama tasarımı için önceki veri seti 10 meslek daha eklenerek güncellendi. Ayrıca nicel veri seti eklendi.
+| 03.12.2025 | MP4        | Veri Analizi ve Görselleştirme Sonuçları Eklendi.
 
 ### MP3 - Veri Toplama Tasarımı
 - **Yöntem:** Doküman / İçerik Analizi
@@ -48,3 +49,13 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 - **Kayıt Sayısı:**
   - `data_mp3.csv` (Nitel Veri): 32 satır
   - `data_mp3_2.csv` (Nicel Veri): 40 satır
+
+### MP4 - Veri Analizi ve Görselleştirme
+- **Yöntem:** İstatistiksel Analiz ve Veri Görselleştirme (Python / Pandas, Seaborn)
+- **Yapılan Analizler:**
+    * Temel istatistiklerin çıkarılması (Mean, Median, Std).
+    * Korelasyon Matrisi hesaplanması.
+    * YZ Maruziyeti ile Otomasyon Riski arasındaki ilişkinin incelenmesi.
+- **Oluşturulan Grafikler:** Histogram, Scatter Plot (Risk Haritası), Talep Değişimi Bar Chart.
+- **Kullanılan Veri:** data_mp3_2.csv (Nicel Veri Seti)
+- **Kayıt Sayısı:** 40 satır
