@@ -42,6 +42,7 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 | 05.11.2025 | MP3        | Veri toplama tasarımı, döküman/içerik analizi yöntemi ile yapıldı. 22 satırlık veri seti oluşturuldu.
 | 19.11.2025 | MP3        | Veri toplama tasarımı için önceki veri seti 10 meslek daha eklenerek güncellendi. Ayrıca nicel veri seti eklendi.
 | 03.12.2025 | MP4        | Veri Analizi ve Görselleştirme Sonuçları Eklendi.
+| 17.12.2025 | MP5        | IEEE formatında LaTeX raporu eklendi.
 
 ### MP3 - Veri Toplama Tasarımı
 - **Yöntem:** Doküman / İçerik Analizi
