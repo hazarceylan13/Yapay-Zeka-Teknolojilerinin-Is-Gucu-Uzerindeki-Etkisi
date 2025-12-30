@@ -43,6 +43,7 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 | 19.11.2025 | MP3        | Veri toplama tasarımı için önceki veri seti 10 meslek daha eklenerek güncellendi. Ayrıca nicel veri seti eklendi.
 | 03.12.2025 | MP4        | Veri Analizi ve Görselleştirme Sonuçları Eklendi.
 | 17.12.2025 | MP5        | IEEE formatında LaTeX raporu eklendi.
+| 30.12.2025 | Final      | Final klasörü yüklendi.
 
 ### MP3 - Veri Toplama Tasarımı
 - **Yöntem:** Doküman / İçerik Analizi
@@ -60,3 +61,10 @@ GitHub: Versiyon kontrolü ve grup içi proje takibi.
 - **Oluşturulan Grafikler:** Histogram, Scatter Plot (Risk Haritası), Talep Değişimi Bar Chart.
 - **Kullanılan Veri:** data_mp3_2.csv (Nicel Veri Seti)
 - **Kayıt Sayısı:** 40 satır
+
+### MP5 - Genel Sonuç ve Raporlama
+* **Yöntem:** Akademik Raporlama ve Sentez
+* **Araçlar:** Overleaf (LaTeX), BibTeX
+* **Çıktı:** `MP5.pdf` (IEEE Konferans Formatı)
+
+
